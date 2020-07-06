@@ -1,0 +1,20 @@
+button {
+  cursor: pointer;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.login, .logout {
+  margin-right: 15rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.not-shown {
+  visibility: hidden;
+}
